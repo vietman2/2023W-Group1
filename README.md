@@ -4,6 +4,12 @@
 ### 1조: 훈련참가표 앱
 ### 김혜린, 노희재, 한동훈
 
+### To start programming
+Run the following commands in Ubuntu to download the skeleton code for the project.
+```shell
+git clone https://github.com/vietman2/2023W-Group1
+```
+
 ### To Start Development Server
 ```shell
 cd app
